@@ -1,6 +1,7 @@
 # namer_app
 
-A new Flutter project.
+A Flutter project based on the tutorial by Flutter Teacher.
+https://www.youtube.com/watch?v=p2bsfBA6Ixg&t=5s
 
 ## Getting Started
 
